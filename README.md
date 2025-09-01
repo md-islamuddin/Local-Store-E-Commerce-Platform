@@ -81,6 +81,10 @@ node server.js
 ### **4. Open Frontend**   
  Open public/index.html in your browser      
 (Or run using VS Code Live Server or any local server)   
+Setup environment variables
+Create a .env file in the root folder and add:
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 
 # **📸 Screenshots**  
 ### **HOME PAGE**  
